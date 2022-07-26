@@ -8,3 +8,5 @@ demo: https://blog.csdn.net/weixin_55891090/article/details/114854067
 ```bash
 PKG_VERSION=`node -p "require('./package.json').version"`
 ```
+
+# [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
