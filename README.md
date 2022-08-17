@@ -10,3 +10,9 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 ```
 
 # [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
+
+# html,js,css兼容性
+[caniuse](https://caniuse.com/)
+[CSSDB](https://cssdb.org/)
+[browserslist](https://browsersl.ist/)
+[ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
