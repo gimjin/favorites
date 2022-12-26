@@ -20,3 +20,5 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 # [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
 
 # [JSON Schema Store](https://www.schemastore.org/json/)
+
+# [simpleicons](https://simpleicons.org/)
