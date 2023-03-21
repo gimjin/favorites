@@ -7,6 +7,7 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 
 # 教程
 - [TS 设计模式](https://refactoringguru.cn/)
+- [javascript.info](https://zh.javascript.info/)
 
 # [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
 
