@@ -1,9 +1,12 @@
 # bookmarks
 
-# [Read a JSON Value in Bash](3)
+# Read a JSON Value in Bash
 ```bash
 PKG_VERSION=`node -p "require('./package.json').version"`
 ```
+
+# 教程
+- [TS 设计模式](https://refactoringguru.cn/)
 
 # [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
 
