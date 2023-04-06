@@ -17,6 +17,10 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 - [browserslist](https://browsersl.ist/)
 - [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
+# online run
+- https://stackblitz.com/
+- https://codepen.io/
+
 # 其他
 - [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
 - [JSON Schema Store](https://www.schemastore.org/json/)
