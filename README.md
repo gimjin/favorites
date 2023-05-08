@@ -22,6 +22,10 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 - https://stackblitz.com/
 - https://codepen.io/
 
+# Git
+- https://www.conventionalcommits.org/zh-hans/v1.0.0/
+- https://keepachangelog.com/zh-CN/1.0.0/
+
 # 其他
 - [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
 - [JSON Schema Store](https://www.schemastore.org/json/)
