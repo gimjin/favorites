@@ -9,6 +9,8 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 - [TS 设计模式](https://refactoringguru.cn/)
 - [javascript.info](https://zh.javascript.info/)
 - [freecodecamp.org](https://www.freecodecamp.org/)
+- https://roadmap.sh/frontend
+- http://getbem.com/naming
 
 # [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
 
@@ -25,6 +27,9 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 # Git
 - https://www.conventionalcommits.org/zh-hans/v1.0.0/
 - https://keepachangelog.com/zh-CN/1.0.0/
+
+# 敏捷开发
+http://agilemanifesto.org/iso/zhchs/manifesto.html
 
 # 其他
 - [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
