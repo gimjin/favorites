@@ -33,6 +33,7 @@ http://agilemanifesto.org/iso/zhchs/manifesto.html
 
 # 工具
 - [微软 designer](https://designer.microsoft.com/)
+- [二进制编辑器](https://hexed.it/)
 
 # 其他
 - [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
