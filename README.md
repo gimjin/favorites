@@ -42,3 +42,4 @@ http://agilemanifesto.org/iso/zhchs/manifesto.html
 - [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
 - [java表达式分析器](http://www.singularsys.com/jep/doc/javadoc/com/singularsys/jep/Jep.html)
     - demo: https://blog.csdn.net/weixin_55891090/article/details/114854067
+- [Github 向优秀的人学习](https://resources.github.com/learn/pathways/)
