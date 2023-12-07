@@ -6,8 +6,11 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 ```
 
 # 标准
-- [The HTML syntax](https://html.spec.whatwg.org/multipage/syntax.html)
-- [ECMA-262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
+| 语言 | 组织 | 标准 |
+| - | - | - |
+| JavaScript | [TC39](https://tc39.es/) part of [ECMA](https://ecma-international.org/) | [ECMA-262](https://tc39.es/ecma262/) |
+| CSS(Cascading Style Sheets) | [CSSWG](https://csswg.org/) part of [W3C](https://www.w3.org/) | [CSS Standard](https://drafts.csswg.org/css-2023/) |
+| HTML(HyperText Markup Language) | [WHATWG](https://whatwg.org/) founded by Apple, Google, Mozilla, Microsoft | [HTML Standard](https://html.spec.whatwg.org/multipage/) |
 
 # 教程
 - [TS 设计模式](https://refactoringguru.cn/)
