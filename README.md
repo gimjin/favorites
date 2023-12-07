@@ -7,6 +7,7 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 
 # 标准
 [The HTML syntax](https://html.spec.whatwg.org/multipage/syntax.html)
+[ECMA-262](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 # 教程
 - [TS 设计模式](https://refactoringguru.cn/)
@@ -21,7 +22,6 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 - [caniuse](https://caniuse.com/)
 - [CSSDB](https://cssdb.org/)
 - [browserslist](https://browsersl.ist/)
-- [ECMA-262](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 # online run
 - https://stackblitz.com/
