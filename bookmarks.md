@@ -1,5 +1,5 @@
 # 思想
-- [WIB 思想](https://dreamsongs.com/WorseIsBetter.html)
+- [WIB(Worse Is Better)](https://dreamsongs.com/WorseIsBetter.html)
 - [敏捷开发](http://agilemanifesto.org/iso/zhchs/manifesto.html)
 - [约定式提交](https://www.conventionalcommits.org/zh-hans/v1.0.0/)
 - [更新日志](https://keepachangelog.com/zh-CN/1.0.0/)
