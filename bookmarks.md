@@ -17,8 +17,9 @@
 - [TS 设计模式](https://refactoringguru.cn/)
 - [javascript.info](https://zh.javascript.info/)
 - [freecodecamp.org](https://www.freecodecamp.org/)
-- https://roadmap.sh/frontend
-- http://getbem.com/naming
+- [FE roadmap](https://roadmap.sh/frontend)
+- [BEM](http://getbem.com/naming)
+- [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
 
 # 兼容性
 - [caniuse](https://caniuse.com/)
@@ -26,8 +27,8 @@
 - [browserslist](https://browsersl.ist/)
 
 # online run
-- https://stackblitz.com/
-- https://codepen.io/
+- [stackblitz](https://stackblitz.com/)
+- [codepen](https://codepen.io/)
 
 # 工具
 - [微软 designer](https://designer.microsoft.com/)
@@ -39,7 +40,6 @@
 - [JSON Schema Store](https://www.schemastore.org/json/)
 - [simpleicons](https://simpleicons.org/)
 - [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
-- [java表达式分析器](http://www.singularsys.com/jep/doc/javadoc/com/singularsys/jep/Jep.html)
-    - demo: https://blog.csdn.net/weixin_55891090/article/details/114854067
+- [java表达式分析器](http://www.singularsys.com/jep/doc/javadoc/com/singularsys/jep/Jep.html)-[demo](https://blog.csdn.net/weixin_55891090/article/details/114854067)
 - [Github 向优秀的人学习](https://resources.github.com/learn/pathways/)
-- https://www.dallelist.com/
+- [Art prompt](https://www.dallelist.com/)
