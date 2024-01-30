@@ -32,6 +32,8 @@
 
 # 工具
 - [微软 designer](https://designer.microsoft.com/)
+- [Lunacy](https://icons8.com/lunacy)
+- [Photopea](https://www.photopea.com/)
 - [二进制编辑器](https://hexed.it/)
 - [Screen metrics](https://www.mydevice.io/)
 
