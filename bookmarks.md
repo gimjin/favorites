@@ -28,6 +28,10 @@
 - [CSSDB](https://cssdb.org/)
 - [browserslist](https://browsersl.ist/)
 
+# 安全
+- [HTML5 安全手册](https://html5sec.org/)
+- [OWASP 的跨站脚本攻击 (XSS) 防护手册](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+
 # online run
 - [stackblitz](https://stackblitz.com/)
 - [codepen](https://codepen.io/)
