@@ -13,14 +13,20 @@
 | [CSSWG](https://csswg.org/) part of [W3C](https://www.w3.org/) | [CSS Standard](https://www.w3.org/Style/CSS/) | CSS(Cascading Style Sheets) |
 | [WHATWG](https://whatwg.org/) founded by Apple, Google, Mozilla, Microsoft | [HTML Living Standard](https://html.spec.whatwg.org/multipage/) | HTML(HyperText Markup Language) |
 
-# 教程
+# 原则与设计模式
 - [TS 设计模式](https://refactoringguru.cn/)
+- [单一功能原则](https://zh.wikipedia.org/wiki/单一功能原则)
+- [遵循不可变数据范式](https://immerjs.github.io/immer/zh-CN/)
+- [状态机](https://stately.ai/docs)
+- [响应式编程](https://rxjs.dev/)
+- [应用正模：架构决策指南](https://jasonformat.com/application-holotypes/)
+
+# 教程
 - [javascript.info](https://zh.javascript.info/)
 - [freecodecamp.org](https://www.freecodecamp.org/)
 - [FE roadmap](https://roadmap.sh/frontend)
 - [BEM](http://getbem.com/naming)
 - [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
-- [应用正模：架构决策指南](https://jasonformat.com/application-holotypes/)
 - [提高网站性能的技巧](https://web.dev/explore/fast?hl=zh-cn)
 
 # 兼容性
