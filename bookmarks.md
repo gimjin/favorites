@@ -21,6 +21,7 @@
 - [BEM](http://getbem.com/naming)
 - [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
 - [应用正模：架构决策指南](https://jasonformat.com/application-holotypes/)
+- [提高网站性能的技巧](https://web.dev/explore/fast?hl=zh-cn)
 
 # 兼容性
 - [caniuse](https://caniuse.com/)
