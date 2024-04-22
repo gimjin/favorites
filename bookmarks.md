@@ -28,6 +28,8 @@
 - [BEM](http://getbem.com/naming)
 - [请提供最小重现](https://antfu.me/posts/why-reproductions-are-required-zh)
 - [提高网站性能的技巧](https://web.dev/explore/fast?hl=zh-cn)
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [Github flow](https://docs.github.com/zh/get-started/using-github/github-flow)
 
 # 兼容性
 - [caniuse](https://caniuse.com/)
