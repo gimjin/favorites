@@ -52,6 +52,7 @@
 - [Screen metrics](https://www.mydevice.io/)
 - [cedict中英翻译本地库](https://cc-cedict.org/)
 - [sm.ms 图床](https://sm.ms/)
+- [网站统计](https://umami.is/)
 
 # 其他
 - [ssl免费证书](https://letsencrypt.org/zh-cn/getting-started/)
