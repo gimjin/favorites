@@ -62,4 +62,5 @@
 - [java表达式分析器](http://www.singularsys.com/jep/doc/javadoc/com/singularsys/jep/Jep.html)-[demo](https://blog.csdn.net/weixin_55891090/article/details/114854067)
 - [Github 向优秀的人学习](https://resources.github.com/learn/pathways/)
 - [Art prompt](https://www.dallelist.com/)
-- [空图片](http://via.placeholder.com/350x150)
+- [空图片-灰色图](http://via.placeholder.com/350x150)
+- [空图片-效果图](https://picsum.photos/350/800?random=41)
