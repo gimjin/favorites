@@ -66,3 +66,4 @@
 - [空图片-灰色图](http://via.placeholder.com/350x150)
 - [空图片-效果图](https://picsum.photos/350/800?random=41)
 - [ISIA Food-500](http://123.57.42.89/FoodComputing__Dataset.html)
+- [AI Design](https://uizard.io/)
