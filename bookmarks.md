@@ -21,6 +21,9 @@
 - [响应式编程](https://rxjs.dev/)
 - [应用正模：架构决策指南](https://jasonformat.com/application-holotypes/)
 
+# AI
+- [大模型库](https://huggingface.co/)
+
 # 教程
 - [javascript.info](https://zh.javascript.info/)
 - [freecodecamp.org](https://www.freecodecamp.org/)
