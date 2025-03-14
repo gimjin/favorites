@@ -5,5 +5,5 @@ PKG_VERSION=`node -p "require('./package.json').version"`
 
 ```bash
 # Gitlens search pattern
-author:cljin2 message:^feat -message:Merge
+author:gimjin message:^feat -message:Merge
 ```
